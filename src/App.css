@@ -38,9 +38,7 @@ h1 {
 }
 
 .welcoming {
-  margin-top: 25em;
-  margin-bottom: 40em;
-
+  height: 900px;
 }
 .welcoming h1, .welcoming h2
 {
@@ -62,6 +60,10 @@ h1 {
   font-size: 18px;
 }
 
+.projects {
+  padding-bottom: 10em;
+
+}
 .projects h1 {
   margin-top: 10em;
 
@@ -74,8 +76,6 @@ h1 {
 .text p {
   text-align: center;
   width: 200px;
-  margin: auto;
-  margin-top: 1em;
 }
 .text {
   height: 350px;
